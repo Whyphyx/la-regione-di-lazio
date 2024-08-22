@@ -65,7 +65,7 @@
   }
 
 .btn:hover {
-    box-shadow: inset 0 0 0 50px #3300ff48;
+    transform: scale(3);
     color: #333333;
 }
 
