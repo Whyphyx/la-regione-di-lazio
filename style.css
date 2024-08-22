@@ -65,7 +65,7 @@
   }
 
 .btn:hover {
-    transform: scale(3);
+    transform: scale(0.7);
     color: #333333;
 }
 
