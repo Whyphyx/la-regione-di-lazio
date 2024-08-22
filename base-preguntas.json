@@ -65,7 +65,7 @@
         "respuesta":"Colosseo e Foro Romano",
         "incorrecta1":"Torre Di Pisa",
         "incorrecta2":"Foro Romano",
-        "incorrecta3":"Colosseo Romano",
+        "incorrecta3":"Colosseo Romano"
     },
     {
         "categoria":"Economia",
@@ -73,6 +73,6 @@
         "respuesta":"Ortaggi, Cereali, Alberi da frutto, Vite, Olivo e Floricoltura",
         "incorrecta1":"Alberi da frutto, Vite e Olivo",
         "incorrecta2":"Ortaggi, Cereali e Floricoltur",
-        "incorrecta3":"Nessuno è corretto",
+        "incorrecta3":"Nessuno è corretto"
     }
 ]
