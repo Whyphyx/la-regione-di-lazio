@@ -66,8 +66,6 @@
         "incorrecta1":"Torre Di Pisa",
         "incorrecta2":"Foro Romano",
         "incorrecta3":"Colosseo Romano",
-        "imagen":"https://cdn.discordapp.com/attachments/1252330058832547972/1275769467451736096/image.png?ex=66c71867&is=66c5c6e7&hm=148aa1329977ff1513a64e898c8dc1668b62b40e362a6f8db96d2374e3d9f734&",
-        "objectFit":"cover"
     },
     {
         "categoria":"Economia",
@@ -76,7 +74,5 @@
         "incorrecta1":"Alberi da frutto, Vite e Olivo",
         "incorrecta2":"Ortaggi, Cereali e Floricoltur",
         "incorrecta3":"Nessuno è corretto",
-        "imagen":"https://cdn.discordapp.com/attachments/1252330058832547972/1275770162523541514/image.png?ex=66c7190d&is=66c5c78d&hm=2661c5efbfd86df167e49c5cc009daf7f28ab6ec78cbff08025059050c84b93f&",
-        "objectFit":"cover"
     }
 ]
