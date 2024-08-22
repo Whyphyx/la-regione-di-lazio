@@ -38,7 +38,7 @@ function escogerPreguntaAleatoria() {
       //Aquí es donde el juego se reinicia
       if (mostrar_pantalla_juego_términado) {
         swal.fire({
-          title: "Juego finalizado",
+          title: "Juego Finalizado",
           text:
             "Puntuación: " + preguntas_correctas + "/" + (preguntas_hechas - 1),
           icon: "success",
@@ -108,13 +108,13 @@ function oprimir_btn(i) {
   suspender_botones = true;
   if (posibles_respuestas[i] == pregunta.respuesta) {
     preguntas_correctas++;
-    btn_correspondiente[i].style.background = "lightgreen";
+    btn_correspondiente[i].style.background = "greenyellow";
   } else {
-    btn_correspondiente[i].style.background = "pink";
+    btn_correspondiente[i].style.background = "crimson";
   }
   for (let j = 0; j < 4; j++) {
     if (posibles_respuestas[j] == pregunta.respuesta) {
-      btn_correspondiente[j].style.background = "lightgreen";
+      btn_correspondiente[j].style.background = "greenyellow";
       break;
     }
   }
