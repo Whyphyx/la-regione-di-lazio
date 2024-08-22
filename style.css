@@ -64,6 +64,11 @@
     transition: ease-out 0.4s;
   }
 
+.btn:hover
+{
+    transform: scale(0.5);
+}
+
   .numero {
     position: absolute;
     opacity: 0.3;
